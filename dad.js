@@ -1,1 +1,0 @@
-i can write powershell scripts. but very basic ones.
