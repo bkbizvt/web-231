@@ -51,6 +51,7 @@ console.log(header.display("Brennan", "Kidder", "Week 2"));
     var savings=parseFloat(total);
     return savings}
 
+  //outputs formatted to mimic starter code output
   console.log("Hello my name is " + fullName() + ".")
   console.log ("Today's date is " + dateWriter(ye,mo,da) + " and the temperature is " + formatNumber(temp,a))
   console.log ("I am " + convertToInt() + " years old and my savings account goal is " + convertToFloat() + " dollars.")
